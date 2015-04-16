@@ -1,0 +1,13 @@
+#app {
+	width: 960px;
+	margin: 0 auto;
+	background : #ccc;
+	text-align: center;
+	min-height: 300px;
+	overflow: auto;
+}
+
+.event {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
